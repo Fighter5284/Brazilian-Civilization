@@ -17,6 +17,17 @@
     "neutralHello": "How are you?"
     "neutralLetsHearIt": ["Interesting","Let's talk about"]
     "neutralNo": ["I can't.","Sorry, there is no chance."]
-    "neutralYes": ["Sure","Okay, I'm in"]
-    "hateNo": ["Obviously not!",
+    "hateHello": "What do you want?!"
+    "hateLetsHearIt": "Just say it!"
+    "neutralYes": ["Sure","Okay","I'm in"]
+    "hateNo": "Obviously not!"
+    "hateYes": "Fine"
+    
+    "afterPeace": "War is over. Let's celebrate!
+    "tradeRequest": "Do you want to trade?"
+    
+    "outerColor": [38,255,78],
+    "innerColor": [255,255,204],
+    "uniqueName": "The rich land"
+    "uniqueText":
     
