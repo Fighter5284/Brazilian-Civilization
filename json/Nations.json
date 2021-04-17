@@ -1,1 +1,22 @@
-
+[
+  { 
+    "name": "Brazil"
+    "leadername": "Getúlio Vargas"
+    "adjective": ["Brazilian"]
+    "startBias": ["Coast"]
+    "preferredVictoryTipe": "Cultural",
+    
+    "startIntroPart1": "TBD"
+    "startIntroPart2": "TBD"
+    
+    "declaringWar": "For Brazil!"
+    "attacked": "The snake will smoke."
+    "defeated": "Our culture will never end"
+    "introduction": "I am Getúlio, leader of Brazil. Let's celebrate our future of prosperity!
+    
+    "neutralHello": "How are you?"
+    "neutralLetsHearIt": ["Interesting","Let's talk about"]
+    "neutralNo": ["I can't.","Sorry, there is no chance."]
+    "neutralYes": ["Sure","Okay, I'm in"]
+    "hateNo": ["Obviously not!",
+    
