@@ -27,7 +27,7 @@
                 "innerColor": [255,255,204],
                 "uniqueName": "The Samba land",
                 "uniqueText": "Additional 5 culture in your capital. Cities along the coast give +2 production.",
-                "uniques":
+                "uniques": ["+5 Culture in capital","+2 Production in cities along the coast"]
                 "cities": ["Rio de Janeiro","Salvador","São Paulo","Fortaleza","Belo Horizonte","Manaus","Brasília","Curitiba","Recife","Goiânia","Belém","Porto Alegre",
                         "Florianópolis","Campinas","Natal","Campo Grande","Maceió","Guarulhos","São Luís","Vitória","Santos","Rio Branco","Palmas","Boa Vista","Teresina",
                         "São Gonçalo","Nova Iguaçu","Santo André","Ribeirão Preto","Cuiabá"]
