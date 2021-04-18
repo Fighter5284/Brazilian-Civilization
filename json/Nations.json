@@ -29,8 +29,8 @@
                 "outerColor": [38,255,78],
                 "innerColor": [255,255,204],
                 "uniqueName": "The Samba land",
-                "uniqueText": "Additional 1 culture per 2 population in all cities. +2 production in capital.",
-                "uniques": ["[+1 Culture] per [2] population [in all cities]","[+2 Production][in capital]",
+                "uniqueText": "Additional 1 culture per 2 population in all cities. +1 production in all coastal cities.",
+                "uniques": ["[+1 Culture] per [2] population [in all cities]","[+1 Production][in all coastal cities]",
                 "cities": ["Rio de Janeiro","Salvador","São Paulo","Fortaleza","Belo Horizonte","Manaus","Brasília","Curitiba","Recife","Goiânia","Belém","Porto Alegre",
                         "Florianópolis","Campinas","Natal","Campo Grande","Maceió","Guarulhos","São Luís","Vitória","Santos","Rio Branco","Palmas","Boa Vista","Teresina",
                         "São Gonçalo","Nova Iguaçu","Santo André","Ribeirão Preto","Cuiabá"]
