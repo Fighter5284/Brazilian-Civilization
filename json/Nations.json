@@ -1,36 +1,35 @@
 [
-  { 
-    "name": "Brazil",
-    "leadername": "Getúlio Vargas",
-    "adjective": ["Brazilian"],
-    "startBias": ["Coast"],
-    "preferredVictoryTipe": "Cultural",
+        { 
+                "name": "Brazil",
+                "leadername": "Getúlio Vargas",
+                "adjective": ["Brazilian"],
+                "startBias": ["Coast"],
+                "preferredVictoryTipe": "Cultural",
     
-    "declaringWar": "For Brazil!",
-    "attacked": "The snake will smoke.",
-    "defeated": "Our culture will never end",
-    "introduction": "I am Getúlio, leader of Brazil. Let's celebrate our future of prosperity!,
+                "declaringWar": "For Brazil!",
+                "attacked": "The snake will smoke.",
+                "defeated": "Our culture will never end",
+                "introduction": "I am Getúlio, leader of Brazil. Let's celebrate our future of prosperity!,
     
-    "neutralHello": "How are you?",
-    "neutralLetsHearIt": ["Interesting","Let's talk about"],
-    "neutralNo": ["I can't.","Sorry, there is no chance."],
-    "hateHello": "What do you want?!",
-    "hateLetsHearIt": "Just say it!",
-    "neutralYes": ["Sure","Okay","I'm in"],
-    "hateNo": "Obviously not!",
-    "hateYes": "Fine",
+                "neutralHello": "How are you?",
+                "neutralLetsHearIt": ["Interesting","Let's talk about"],
+                "neutralNo": ["I can't.","Sorry, there is no chance."],
+                "hateHello": "What do you want?!",
+                "hateLetsHearIt": "Just say it!",
+                "neutralYes": ["Sure","Okay","I'm in"],
+                "hateNo": "Obviously not!",
+                "hateYes": "Fine",
     
-    "afterPeace": "War is over. Let's celebrate!",
-    "tradeRequest": "Do you want to trade?",
+                "afterPeace": "War is over. Let's celebrate!",
+                "tradeRequest": "Do you want to trade?",
     
-    "outerColor": [38,255,78],
-    "innerColor": [255,255,204],
-    "uniqueName": "The Samba land",
-    "uniqueText": "Additional 5 culture in your capital. Cities along the coast give +2 production.",
-    "uniques":
-    "cities": ["Rio de Janeiro","Salvador","São Paulo","Fortaleza","Belo Horizonte","Manaus","Brasília","Curitiba","Recife","Goiânia","Belém","Porto Alegre",
-            "Florianópolis","Campinas","Natal","Campo Grande","Maceió","Guarulhos","São Luís","Vitória","Santos","Rio Branco","Palmas","Boa Vista","Teresina",
-            "São Gonçalo","Nova Iguaçu","Santo André","Ribeirão Preto","Cuiabá"]
-  }
+                "outerColor": [38,255,78],
+                "innerColor": [255,255,204],
+                "uniqueName": "The Samba land",
+                "uniqueText": "Additional 5 culture in your capital. Cities along the coast give +2 production.",
+                "uniques":
+                "cities": ["Rio de Janeiro","Salvador","São Paulo","Fortaleza","Belo Horizonte","Manaus","Brasília","Curitiba","Recife","Goiânia","Belém","Porto Alegre",
+                        "Florianópolis","Campinas","Natal","Campo Grande","Maceió","Guarulhos","São Luís","Vitória","Santos","Rio Branco","Palmas","Boa Vista","Teresina",
+                        "São Gonçalo","Nova Iguaçu","Santo André","Ribeirão Preto","Cuiabá"]
+        }
 ]
-    
