@@ -5,6 +5,9 @@
                 "adjective": ["Brazilian"],
                 "startBias": ["Coast"],
                 "preferredVictoryTipe": "Cultural",
+                
+                "startIntroPart1": "Hey ho"
+                "startIntroPart2": "Let's go"
     
                 "declaringWar": "For Brazil!",
                 "attacked": "The snake will smoke.",
@@ -27,7 +30,7 @@
                 "innerColor": [255,255,204],
                 "uniqueName": "The Samba land",
                 "uniqueText": "Additional 5 culture in your capital. Cities along the coast give +2 production.",
-                "uniques": ["+5 Culture in capital","+2 Production in cities along the coast"]
+                "uniques": ["+5 Culture in capital","+2 Production in cities along the coast"],
                 "cities": ["Rio de Janeiro","Salvador","São Paulo","Fortaleza","Belo Horizonte","Manaus","Brasília","Curitiba","Recife","Goiânia","Belém","Porto Alegre",
                         "Florianópolis","Campinas","Natal","Campo Grande","Maceió","Guarulhos","São Luís","Vitória","Santos","Rio Branco","Palmas","Boa Vista","Teresina",
                         "São Gonçalo","Nova Iguaçu","Santo André","Ribeirão Preto","Cuiabá"]
